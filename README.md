@@ -1,8 +1,5 @@
 # todo_list_app
 
-C:/Users/hp/Videos/Bandicam/bandicam%202024-09-24%2014-17-25-405.mp4
-
-
 A new Flutter project.
 
 ## Getting Started
